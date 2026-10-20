@@ -1,0 +1,166 @@
+# SATCORE SOLUTIONS ATTRIBUTION LICENSE
+
+**SatCore Solutions Attribution License — SCSAL 1.0**
+
+Copyright © 2026 [NOMBRE LEGAL DEL TITULAR DE LOS DERECHOS]  
+Nombre comercial: SatCore Solutions
+
+Todos los derechos reservados, excepto los expresamente concedidos por esta licencia.
+
+## 1. Alcance y definiciones
+
+Esta licencia se aplica al código fuente, los archivos de configuración, la documentación y los demás materiales originales de este proyecto que estén expresamente sujetos a ella.
+
+**Software:** el conjunto de materiales originales del proyecto Menú Digital QR distribuidos bajo esta licencia.
+
+**Obra derivada:** cualquier modificación, adaptación, extensión o producto que incorpore una parte del Software original protegida por derechos de autor.
+
+**Atribución:** el reconocimiento de SatCore Solutions como fuente original del Software.
+
+Esta licencia concede únicamente los derechos que el titular pueda otorgar sobre los materiales cubiertos. No sustituye las licencias de terceros ni concede derechos sobre materiales ajenos.
+
+## 2. Derechos concedidos
+
+Sujeto al cumplimiento de esta licencia, se concede una autorización mundial, no exclusiva y libre de regalías para:
+
+- Utilizar y ejecutar el Software.
+- Estudiar y copiar el código fuente.
+- Modificar, adaptar y ampliar el Software.
+- Integrar el Software en otros proyectos.
+- Crear y distribuir obras derivadas.
+- Distribuir copias originales o modificadas.
+- Utilizar el Software con fines personales, educativos y comerciales.
+- Incorporar el Software en productos y servicios comerciales.
+
+Esta autorización no transfiere la titularidad de los derechos de autor.
+
+## 3. Atribución obligatoria
+
+Toda redistribución del Software y toda obra derivada que incorpore una parte sustancial del Software original deberán conservar una atribución razonablemente visible a SatCore Solutions.
+
+La atribución deberá incluir, como mínimo:
+
+> Basado en software desarrollado originalmente por SatCore Solutions.
+
+Cuando sea razonablemente posible, también deberá incluir:
+
+**Proyecto original:**  
+[URL DEL REPOSITORIO ORIGINAL]
+
+**Organización:**  
+https://github.com/satcoresolutions
+
+La atribución podrá ubicarse en el archivo README, la documentación, los créditos, la sección de información del producto o un archivo NOTICE.
+
+En aplicaciones con interfaz gráfica, podrá incluirse en una sección de créditos o información legal. Esta licencia no exige insertar una marca visible en cada pantalla.
+
+## 4. Redistribución y modificaciones
+
+Se permite redistribuir el Software original y sus versiones modificadas, siempre que se cumplan estas condiciones:
+
+1. Se conserve una copia de esta licencia o una referencia inequívoca a ella.
+2. Se mantengan los avisos de copyright y atribución aplicables al código original.
+3. Se identifiquen razonablemente las modificaciones sustanciales cuando resulte pertinente.
+4. Se respeten las licencias y los avisos de terceros.
+5. No se presente el trabajo original de SatCore Solutions como si hubiera sido creado por otra persona o entidad.
+
+Los autores de modificaciones podrán reconocer su propia contribución, sin eliminar la atribución correspondiente al Software original.
+
+## 5. Obras derivadas y licencias adicionales
+
+Las modificaciones originales creadas por terceros podrán distribuirse bajo términos adicionales o una licencia diferente, siempre que esos términos no eliminen las obligaciones de esta licencia respecto de los materiales originales cubiertos por SCSAL 1.0.
+
+Esta licencia no obliga a publicar las modificaciones ni a distribuir su código fuente, salvo cuando otra licencia aplicable establezca una obligación diferente.
+
+## 6. Uso comercial
+
+Se permite utilizar el Software para desarrollar, comercializar, vender, licenciar o prestar servicios, incluidos productos de software y servicios tecnológicos.
+
+El uso comercial no implica que SatCore Solutions respalde, patrocine, certifique o mantenga el producto o servicio que lo incorpore.
+
+Esta autorización no concede derechos sobre la marca, el logotipo ni otros elementos distintivos de SatCore Solutions.
+
+## 7. Marca e identidad visual
+
+Esta licencia no concede autorización para utilizar como marca propia:
+
+- SatCore Solutions.
+- SOFTWARE AND TECHNOLOGY CORE SOLUTIONS.
+- Los logotipos, símbolos y elementos gráficos de SatCore Solutions.
+- Los nombres comerciales, slogans o signos distintivos asociados.
+
+La inclusión de un logotipo o recurso gráfico en el repositorio no significa que dicho elemento esté licenciado bajo los mismos términos que el código fuente.
+
+Las obras derivadas no están obligadas a conservar el logotipo de SatCore Solutions, pero sí deberán cumplir las obligaciones de atribución textual de esta licencia.
+
+Ningún uso permitido del Software autoriza a afirmar una relación comercial, afiliación o respaldo de SatCore Solutions que no exista.
+
+## 8. Componentes y materiales de terceros
+
+El proyecto puede contener o utilizar bibliotecas, dependencias, fuentes tipográficas, imágenes, iconos y otros materiales de terceros.
+
+Cada uno de esos materiales continúa sujeto a su licencia o autorización correspondiente. SCSAL 1.0 no modifica ni reemplaza tales condiciones.
+
+El usuario deberá revisar y cumplir las licencias aplicables a los componentes que utilice o redistribuya.
+
+La inclusión de un componente de terceros no convierte dicho componente en propiedad intelectual original de SatCore Solutions.
+
+## 9. Seguridad, privacidad y uso legal
+
+Esta licencia no autoriza el acceso no autorizado a sistemas, la vulneración de derechos de terceros ni el tratamiento ilícito de datos personales.
+
+Quien utilice, modifique o distribuya el Software será responsable de su configuración, del tratamiento de los datos, de las medidas de seguridad y del cumplimiento de la normativa aplicable a su caso de uso.
+
+El Software no concede derechos sobre credenciales, datos personales, información confidencial ni contenido de clientes.
+
+## 10. Ausencia de garantía
+
+EL SOFTWARE SE PROPORCIONA «TAL CUAL», SIN GARANTÍAS EXPRESAS NI IMPLÍCITAS, EN LA MEDIDA PERMITIDA POR LA LEGISLACIÓN APLICABLE.
+
+El titular no garantiza que el Software esté libre de errores o vulnerabilidades, que funcione de forma ininterrumpida, que sea compatible con todos los sistemas o que resulte adecuado para un propósito particular.
+
+## 11. Limitación de responsabilidad
+
+En la medida permitida por la legislación aplicable, el titular no será responsable por daños derivados del uso o la imposibilidad de utilizar el Software, incluidos la pérdida de datos, la interrupción de actividades o la pérdida de beneficios.
+
+Esta disposición no excluye responsabilidades que legalmente no puedan excluirse ni limita los derechos irrenunciables que correspondan a una persona conforme a la legislación aplicable.
+
+## 12. Terminación
+
+Los derechos concedidos por esta licencia terminan automáticamente si el usuario incumple sus condiciones.
+
+Cuando el incumplimiento pueda corregirse, los derechos podrán restablecerse una vez corregido, en la medida permitida por la legislación aplicable.
+
+La terminación no elimina las obligaciones ni los derechos que deban subsistir por su naturaleza o por disposición legal.
+
+## 13. Derechos reservados
+
+Todos los derechos sobre el Software que no se concedan expresamente mediante esta licencia quedan reservados por el titular correspondiente.
+
+Esta licencia no constituye una transferencia de propiedad intelectual ni una autorización general para utilizar la identidad comercial de SatCore Solutions.
+
+## 14. Versión de la licencia
+
+Esta licencia se identifica como **SatCore Solutions Attribution License — SCSAL 1.0**.
+
+Las modificaciones futuras de sus términos podrán publicarse bajo una nueva versión. Los materiales distribuidos bajo SCSAL 1.0 permanecerán sujetos a esa versión, salvo autorización expresa válida del titular correspondiente.
+
+## 15. Legislación aplicable e interpretación
+
+Esta licencia se interpretará conforme a la legislación aplicable y sin perjuicio de las normas imperativas que correspondan.
+
+Si alguna disposición resulta inaplicable, las demás conservarán su efecto en la medida permitida por la legislación aplicable.
+
+## 16. Información del proyecto
+
+**Proyecto:** Menú Digital QR  
+**Desarrollador y marca comercial:** SatCore Solutions  
+**Nombre corporativo:** SOFTWARE AND TECHNOLOGY CORE SOLUTIONS  
+**Sitio de código fuente:** https://github.com/satcoresolutions  
+**Contacto:** satcoresolutions@gmail.com
+
+---
+
+**SCSAL 1.0 — Copyright © 2026 [NOMBRE LEGAL DEL TITULAR DE LOS DERECHOS].**
+
+Todos los derechos reservados, excepto aquellos expresamente concedidos mediante esta licencia.
