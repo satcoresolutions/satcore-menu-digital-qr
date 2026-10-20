@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="./public/logo.png" alt="SatCore Solutions" width="180" />
@@ -9,11 +8,12 @@
 
 Desarrollado con Next.js y TypeScript por **SatCore Solutions**.
 
-*Soluciones digitales seguras, accesibles y funcionales para todos.*
+_Soluciones digitales seguras, accesibles y funcionales para todos._
 
 [![License](https://img.shields.io/badge/License-SCSAL%201.0-132A8E.svg)](./LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 </div>
 
@@ -294,7 +294,7 @@ La licencia debe interpretarse junto con los derechos de terceros y las licencia
 
 **SatCore Solutions**
 
-*Soluciones digitales seguras, accesibles y funcionales para todos.*
+_Soluciones digitales seguras, accesibles y funcionales para todos._
 
 GitHub: https://github.com/satcoresolutions
 
@@ -304,6 +304,6 @@ GitHub: https://github.com/satcoresolutions
 
 **© SatCore Solutions**
 
-*Todos los derechos reservados sobre los elementos protegidos de la marca, conforme a la legislación aplicable y sin perjuicio de los permisos otorgados por la licencia del código.*
+_Todos los derechos reservados sobre los elementos protegidos de la marca, conforme a la legislación aplicable y sin perjuicio de los permisos otorgados por la licencia del código._
 
 </div>
