@@ -43,5 +43,7 @@ export const BUSINESS_CONFIG: Business = {
 /** Tipos principales del menú */
 export type { Tag, MenuItem, Category, Business };
 
+export const THEME_KEY = "satcore-comandas-theme";
+
 /** Reexportación de estilos compartidos */
 export { ui } from "./ui";
